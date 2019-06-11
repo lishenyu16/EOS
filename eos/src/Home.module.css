@@ -84,8 +84,8 @@ button{
 .buttonActive{
     -webkit-transform: translateY(-4px);
     transform: translateY(-4px);
-    background-color: lightblue;
-    color:black;
+    background: #E3ECF7;
+    color: #1D2C4C;
     font-weight: bold;     
 }
 button:hover{
@@ -95,5 +95,6 @@ button:hover{
     color:black;
     font-weight: bold;  
 }
+
 
   
