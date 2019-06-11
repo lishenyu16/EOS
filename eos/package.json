@@ -2,14 +2,18 @@
   "name": "eos",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lishenyu16.github.io/EOS",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1",
+    "react-twitch-embed-video": "^1.0.1",
     "video-react": "^0.13.7"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

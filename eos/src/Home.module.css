@@ -42,7 +42,7 @@
 
 .question_area{
     width:50%;
-    height:50%;
+    height:70%;
     margin-top: 10%;
     background-color:white;
     border-radius: 10px;
@@ -52,7 +52,7 @@
 }
 
 .title{
-    margin-top:45%;
+    margin-top:50%;
     color:lightgray;
 }
 .question{

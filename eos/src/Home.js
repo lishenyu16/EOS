@@ -1,9 +1,8 @@
 import React,{useState} from 'react'
 import styles from './Home.module.css'
 import logoImage from './assets/Logo_battle.png'
-import modalImage from './assets/modal_image.png'
 import "../node_modules/video-react/dist/video-react.css";
-import { Player } from 'video-react';
+import TwitchEmbedVideo from "react-twitch-embed-video"
 
 const Home = (props)=>{
     const [activeButton,setActiveButton] = useState(null)
@@ -18,12 +17,8 @@ const Home = (props)=>{
                 <img src={logoImage}></img>
             </div>
             <div className={styles.modalImage}>
-                {/* <img src={modalImage}></img> */}
-                <Player
-                    playsInline
-                    poster="/assets/poster.png"
-                    src="https://media.w3.org/2010/05/sintel/trailer_hd.mp4"
-                />
+                <TwitchEmbedVideo channel="talk2megooseman" layout="video" height="400"
+                    width="550" />
             </div>
             <div className={styles.question_area}>
                 <div className={styles.title}>
