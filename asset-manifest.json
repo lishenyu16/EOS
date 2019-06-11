@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/EOS/static/css/main.7ad2e692.chunk.css",
+    "main.js": "/EOS/static/js/main.525e2d61.chunk.js",
+    "main.js.map": "/EOS/static/js/main.525e2d61.chunk.js.map",
+    "runtime~main.js": "/EOS/static/js/runtime~main.cacbd93d.js",
+    "runtime~main.js.map": "/EOS/static/js/runtime~main.cacbd93d.js.map",
+    "static/css/2.2109d0bc.chunk.css": "/EOS/static/css/2.2109d0bc.chunk.css",
+    "static/js/2.320fb755.chunk.js": "/EOS/static/js/2.320fb755.chunk.js",
+    "static/js/2.320fb755.chunk.js.map": "/EOS/static/js/2.320fb755.chunk.js.map",
+    "index.html": "/EOS/index.html",
+    "precache-manifest.bfef990d044d237de5dcd31bb3b754e1.js": "/EOS/precache-manifest.bfef990d044d237de5dcd31bb3b754e1.js",
+    "service-worker.js": "/EOS/service-worker.js",
+    "static/css/2.2109d0bc.chunk.css.map": "/EOS/static/css/2.2109d0bc.chunk.css.map",
+    "static/css/main.7ad2e692.chunk.css.map": "/EOS/static/css/main.7ad2e692.chunk.css.map",
+    "static/media/Home.module.css": "/EOS/static/media/Background.05957418.png",
+    "static/media/Logo_battle.png": "/EOS/static/media/Logo_battle.5280bdc6.png"
+  }
+}
